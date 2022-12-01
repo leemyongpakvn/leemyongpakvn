@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# G o Galaxy
+```mermaid
+graph TD;
+    B-->b1;
+    B-->b2;
+    b1-->BO;
+    b2-->BO;
+```
