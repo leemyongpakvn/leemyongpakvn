@@ -1,4 +1,4 @@
-### What's that 👋
+## G o Galaxy 👋
 
 <!--
 **leemyongpakvn/leemyongpakvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# G o Galaxy
 ```stl
 solid cube_corner
   facet normal 0.0 -1.0 0.0
