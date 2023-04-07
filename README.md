@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![J40_yToL](https://user-images.githubusercontent.com/3759923/210188486-3aa89b0f-e8a0-4481-b0fc-4b897871bfa4.png)
+![J40_yToL](https://user-images.githubusercontent.com/3759923/210188486-3aa89b0f-e8a0-4481-b0fc-4b897871bfa4.png) <br>
+Poetry iz Code of Life <br>
+Keep compose it till you :ghost: <br>
+Because we have CS fix <br>
+No fear to pass the red :no_entry:
