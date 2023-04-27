@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 Poetry iz Code of Life :magic_wand: <br>
 Do compose it till you :ghost: <br>
 Because we have CS fix :hammer_and_wrench: <br>
-No fear to pass the red :no_entry:
+No fear to pass the red Line :no_entry:
