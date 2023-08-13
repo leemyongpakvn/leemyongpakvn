@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 ![J40_yToL](https://user-images.githubusercontent.com/3759923/210188486-3aa89b0f-e8a0-4481-b0fc-4b897871bfa4.png) <br>
 Poetry iz Code of Life <br>
 Do compose it till you :ghost: <br>
-Because we have CS fix :hammer_and_wrench: <br>
-No fear to pass the red Line :no_entry:
+Because we have CS fix <br>
+No fear to pass the red :no_entry:
